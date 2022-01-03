@@ -1,2 +1,2 @@
-# Awareness-Net
-Awareness Net: Awareness Neural Network Architecture
+# Aware-Net
+Aware Net: Aware Neural Network Architecture
